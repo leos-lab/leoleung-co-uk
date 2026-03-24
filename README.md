@@ -90,15 +90,15 @@ The site includes a project spotlight section covering four flagship repositorie
 
 ```mermaid
 flowchart LR
-  Browser[User Browser] --> App[Next.js App Router]
-  App --> Home[/app/page.js]
-  App --> CV[/app/cv/page.js]
-  App --> Shared[Reusable Components]
-  Shared --> Header[components/Header.jsx]
-  Shared --> SectionTitle[components/SectionTitle.jsx]
-  App --> Layout[/app/layout.js]
-  Layout --> SEO[Metadata + JSON-LD + OG tags]
-  App --> Styles[/app/globals.css + Tailwind]
+  Browser["User Browser"] --> App["Next.js App Router"]
+  App --> Home["app/page.js"]
+  App --> CV["app/cv/page.js"]
+  App --> Shared["Reusable Components"]
+  Shared --> Header["components/Header.jsx"]
+  Shared --> SectionTitle["components/SectionTitle.jsx"]
+  App --> Layout["app/layout.js"]
+  Layout --> SEO["Metadata + JSON-LD + OG tags"]
+  App --> Styles["app/globals.css + Tailwind"]
 ```
 
 ## SEO and metadata highlights
