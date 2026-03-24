@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin"], display: "swap" });
 
 export const metadata = {
   title: "Leo Leung — Consultant & Builder",
-  description: "Consultant & developer. I build useful tools, automate workflows, and advise for projects like suitt.co and Manchester Gents."
+  description: "Consultant & developer focused on Power Platform, Dynamics 365, and full-stack web delivery across portfolio, Manchester Gents, LCWK Reports, and Manchester Gents Gallery."
 };
 
 export default function RootLayout({ children }) {
@@ -25,7 +25,7 @@ export default function RootLayout({ children }) {
         <meta name="theme-color" content="#0f1726" media="(prefers-color-scheme: dark)" />
         <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
         <meta property="og:title" content="Leo Leung — Consultant & Builder" />
-        <meta property="og:description" content="Consultant & developer. I build useful tools, automate workflows, and advise for projects like suitt.co and Manchester Gents." />
+        <meta property="og:description" content="Consultant & developer focused on Power Platform, Dynamics 365, and full-stack web delivery across portfolio, Manchester Gents, LCWK Reports, and Manchester Gents Gallery." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://leoleung.co.uk" />
         <meta property="og:image" content="/OG.png" />
