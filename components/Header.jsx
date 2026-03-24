@@ -28,7 +28,7 @@ export default function Header() {
           <span className="font-semibold tracking-wide">Leo&nbsp;Leung</span>
         </a>
         <nav className="hidden sm:flex items-center gap-6">
-          <a href="/#work" className="hover:opacity-80">Work</a>
+          <a href="/#skills" className="hover:opacity-80">Skills</a>
           <a href="/#projects" className="hover:opacity-80">Projects</a>
           <a href="/#community" className="hover:opacity-80">Community</a>
           <a href="/#contact" className="hover:opacity-80">Contact</a>
