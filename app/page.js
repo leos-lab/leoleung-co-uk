@@ -11,7 +11,7 @@ export default function Page() {
         "This site (Next.js) for presenting my consulting offer, project case studies, and technical profile.",
       skills: "Next.js 14, React, Tailwind CSS, SEO metadata",
       liveUrl: "https://leoleung.co.uk",
-      gitUrl: "https://github.com/leoleung-dev/portfolio"
+      gitUrl: "https://github.com/leoleung-dev/leoleung-co-uk"
     },
     {
       title: "Manchester Gents Platform",
